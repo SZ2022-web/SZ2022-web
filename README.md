@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Soraya Zarangwal  
 
-<!--
-**SZ2022-web/SZ2022-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology major (Cybersecurity concentration) at George Mason University  
+🔒 Interested in Cybersecurity, Linux Administration, and DevOps  
+💻 Skills: Linux (RedHat, Ubuntu), Networking, Ansible, Bash, Git, SQL  
+📚 Currently preparing for CompTIA Security+  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔧 Linux Server Setup (DNS, Kerberos, NFS configuration)  
+- 🌐 REST API with Node.js (CRUD operations, Postman tested)  
+- 🔍 Security Labs (Nessus scans, OpenSCAP compliance checks)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+www.linkedin.com/in/soraya-zarangwal | Zarangwalsuray@gmail.com 
